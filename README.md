@@ -23,13 +23,30 @@ I enjoy turning complex systems into intuitive, polished experiences that users 
 
 <p align="center">
 
+<!-- Languages -->
+![C++](https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-1f2937?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1f2937?style=for-the-badge&logo=php&logoColor=777BB4)
+
+<!-- Frontend -->
+![HTML](https://img.shields.io/badge/HTML-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-e11d48?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-db2777?style=for-the-badge&logo=sass&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-14532d?style=for-the-badge&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-1e3a8a?style=for-the-badge&logo=prisma&logoColor=white)
+
+<!-- Graphics / Game Dev -->
+![HLSL](https://img.shields.io/badge/HLSL-111827?style=for-the-badge)
+![GLSL](https://img.shields.io/badge/GLSL-111827?style=for-the-badge)
+![Unity](https://img.shields.io/badge/Unity-111827?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal](https://img.shields.io/badge/Unreal-111827?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+<!-- Tools -->
+![Figma](https://img.shields.io/badge/Figma-166534?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![MySQL](https://img.shields.io/badge/MySQL-166534?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-166534?style=for-the-badge&logo=git&logoColor=F05032)
+![Jira](https://img.shields.io/badge/Jira-166534?style=for-the-badge&logo=jira&logoColor=0052CC)
+![Selenium](https://img.shields.io/badge/Selenium-166534?style=for-the-badge&logo=selenium&logoColor=43B02A)
 
 </p>
 
