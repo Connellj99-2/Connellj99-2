@@ -54,20 +54,9 @@ I enjoy turning complex systems into intuitive, polished experiences that users 
 
 ## 🚀 Featured Projects
 
-<p align="center">
 
 <a href="#">
-  <img src="https://via.placeholder.com/400x220.png?text=Install+Wizard" width="400"/>
-</a>
-
-### 🧩 Install Wizard  
-**Lead Programmer**  
-Modular onboarding system focused on clarity and adaptability across complex user flows.
-
----
-
-<a href="#">
-  <img src="https://via.placeholder.com/400x220.png?text=Mobile+Sampling+App" width="400"/>
+  <img width="400" height="220" alt="Gratis" src="https://github.com/user-attachments/assets/6287ce1f-9e87-4a44-9b17-1896bcfa544a" />
 </a>
 
 ### 📱 Branded Mobile Sampling App  
@@ -76,11 +65,15 @@ Customizable mobile UX with dynamic brand theming and structured survey flows.
 ---
 
 <a href="#">
-  <img src="https://via.placeholder.com/400x220.png?text=Onboarding+Bot" width="400"/>
+  <img width="400" height="220" alt="Other_Dev" src="https://github.com/user-attachments/assets/24ea3552-808d-4652-bced-e3c26e89133b" />
+
 </a>
 
-### 🤖 Onboarding Question Generator  
-AI-powered tool that generates contextual questions for new hires.
+### 🧩 3D VR & Game Dev
+Before I was a UI/UX designer, I did a mixture of other programming projects.  Important projects of note have been my experience as a VR programmer, my college projects where I created 2 different feature complete games as a lead programmer, and my earlier role as a front-end programming intern.
+
+---
+
 
 </p>
 
