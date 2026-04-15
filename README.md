@@ -9,102 +9,85 @@
 
 ## 🧠 About Me
 
-- 🎨 UI/UX Design & Development Intern at Gratis Intelligence  
-- 💻 Front-end focused with a strong foundation in full-stack development  
-- 🕶️ Former VR Gameplay Programmer working in Unity  
-- 📍 Based in New York City  
+- 🎨 UI/UX Designer & Developer  
+- 💻 Front-end focused with full-stack experience  
+- 🕶️ Background in VR gameplay programming  
+- 📍 New York City  
 - 🎓 MFA in Computer Science (in progress)
 
-I enjoy turning complex systems into simple, intuitive experiences. My work sits at the intersection of design, engineering, and user research.
+I enjoy turning complex systems into intuitive, polished experiences that users actually enjoy using.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚡ Tech Stack
 
-### 💻 Languages
-`C++` `C#` `JavaScript` `Java` `PHP` `HTML` `CSS` `HLSL` `GLSL`
+<p align="center">
 
-### 🛠️ Tools & Technologies
-`React` `Figma` `Unity` `Unreal Engine`  
-`MySQL` `Git` `Selenium` `Jira`
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-e11d48?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-166534?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-db2777?style=for-the-badge&logo=sass&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-14532d?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1e3a8a?style=for-the-badge&logo=prisma&logoColor=white)
 
-### 🎯 Core Skills
-- UI/UX Design  
-- User Research & Testing  
-- Responsive Design  
-- Design Systems  
-- Agile Development  
-- QA Testing  
+</p>
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
 
-### 🚀 Gratis Intelligence  
-**UI/UX Designer & Developer**  
-*June 2025 – Present*
+<p align="center">
 
-- Designed responsive dashboards improving onboarding and usability  
-- Contributed to user research and cross-functional design reviews  
-- Built scalable design systems for consistency and accessibility  
+<a href="#">
+  <img src="https://via.placeholder.com/400x220.png?text=Install+Wizard" width="400"/>
+</a>
 
----
-
-### 📊 Zenith  
-**UI/UX Designer & Developer**  
-*June 2024 – May 2025*
-
-- Designed interfaces in Figma + React, improving engagement by 13%  
-- Collaborated with engineers to translate UX into production features  
-- Conducted research and analytics to inform product decisions  
+### 🧩 Install Wizard  
+**Lead Programmer**  
+Modular onboarding system focused on clarity and adaptability across complex user flows.
 
 ---
 
-### 🕶️ White Rhino Productions  
-**VR Gameplay Programmer**  
-*Sept 2021 – Aug 2022*
+<a href="#">
+  <img src="https://via.placeholder.com/400x220.png?text=Mobile+Sampling+App" width="400"/>
+</a>
 
-- Built immersive VR experiences in Unity (C#)  
-- Improved performance (FPS +47%) and session duration (+30%)  
-- Led playtesting and iterative design improvements  
+### 📱 Branded Mobile Sampling App  
+Customizable mobile UX with dynamic brand theming and structured survey flows.
 
 ---
 
-### 🔍 Leahy Center for Digital Investigation  
-**Front-End Programming Intern**
+<a href="#">
+  <img src="https://via.placeholder.com/400x220.png?text=Onboarding+Bot" width="400"/>
+</a>
 
-- Built admin dashboard with APIs and MySQL backend  
-- Collaborated across a 30-person multidisciplinary team  
-- Contributed to scalable and maintainable code practices  
+### 🤖 Onboarding Question Generator  
+AI-powered tool that generates contextual questions for new hires.
+
+</p>
 
 ---
 
 ## 📊 Highlights
 
-- 📈 Improved UX engagement metrics by 13%  
-- ⚡ Boosted VR performance by 47%  
-- 🎯 Increased session duration by 30%  
-- 🧪 Conducted research with 200+ users  
+- 📈 Improved engagement metrics by 13%  
+- ⚡ Increased performance by 47% in VR applications  
+- 🎯 Conducted research with 200+ users  
+- 🧪 Built scalable design systems and UX frameworks  
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="mailto:c.onnellj99@gmail.com">📧 Email</a> •
+<p align="center">
+  <a href="mailto:c.onnellj99@gmail.com">📧 Email</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/johnrconnelly/">💼 LinkedIn</a>
 </p>
 
 ---
 
-## 🚧 Currently Working On
-
-- Improving design systems for scalability  
-- Building UX-driven front-end applications  
-- Exploring opportunities in product design  
-
----
-
 <p align="center">
-  <i>Always building, always learning.</i>
+  <i>Designing with intention. Building with precision.</i>
 </p>
